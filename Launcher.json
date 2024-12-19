@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://179.184.222.23:8080/filelist/filelist.json",
-	"DownloadUpdate": "http://179.184.222.23:8080/game/",		
+	"FileList":"http://179.184.222.23/%5bDAYZ%5d/filelist/filelist.json",
+	"DownloadUpdate": "http://179.184.222.23/%5bDAYZ%5d/game",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/0.png",
 		"https://spard2.github.io/dayzupdate/News/1.png",
